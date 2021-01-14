@@ -1,0 +1,110 @@
+background-color: darksalmon;
+font-size: 50px;
+            
+            
+
+        body  { background-image: url(b.jpg);
+            margin: 0px;
+            background-size: cover;
+            background-repeat: no-repeat;
+                
+            }
+            
+            a{
+                color: red;
+                font-size: 20px;
+                font-family: cursive;
+                text-decoration: none;
+            }
+            
+            #one{
+                background-color: aqua;
+                font-size: 24px;
+                font-family: serif;
+            }
+            
+            strong {
+                background-color: crimson;
+                font-size: 30px;
+                font-family: inherit;
+                
+            }
+            
+            div{
+                background-color: antiquewhite;
+                border-style: double;
+            }
+            
+            .link{
+                background-color: floralwhite;
+                border: 2px;
+                border-style: solid;
+            }
+            
+            .RBG{
+                background-color: chartreuse;
+            }
+            
+            h1{
+                background-color: rgba(39, 234, 106, 0.84);
+                font-size: 30px;
+                float: left;
+
+            }
+            
+            
+                      
+#education {
+    color: black;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    
+    
+    
+}
+
+nav{
+  width: 100%;
+height: 80px;
+border-color: darksalmon;
+  
+}
+
+ul{
+  list-style: none;
+  display: inline-block;
+    float: left;
+    line-height: 80px;
+    
+}
+
+ul li {
+margin: 25px; left;
+    
+    
+    
+    
+}
+
+ul li a{
+font-size: 30px;
+font-family: monospace;
+color: black;
+
+padding: 0 20px;
+display: block;
+    
+    
+    
+    
+}
+ul li a:hover{
+
+color: red;
+    
+}
